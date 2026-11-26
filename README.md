@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Laravel, NodeJS, Python**
 
-- 📫 How to reach me **example@gmail.com :u**
-
 - ⚡ Fun fact **skill issues :u**
 
 <h3 align="left">Connect with me:</h3>
